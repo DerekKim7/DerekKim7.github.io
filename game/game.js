@@ -8,6 +8,7 @@ $("#platform").css("display", "block");
 $("#ball").hide();
 $("#shadow").hide();
 $("#platform2").show();
+$("#platform3").show();
 	}); 
 }); 
 
