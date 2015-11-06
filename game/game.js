@@ -13,6 +13,14 @@ $("#platform4").show();
 $("#platform5").show();
 $("#platform6").show();
 $("#yellowball").show();
-	}); 
-}); 
+$("#rightbutton").show();
+$("#leftbutton").show();
+$("#bean").show();
+$("#bean1").show();
+$("#bean2").show();
+	});
+	$("#rightbutton").click(function(){
+		$("#yellowball").css("left", "50%");
+	});
 
+});
