@@ -9,6 +9,10 @@ $("#ball").hide();
 $("#shadow").hide();
 $("#platform2").show();
 $("#platform3").show();
+$("#platform4").show();
+$("#platform5").show();
+$("#platform6").show();
+$("#yellowball").show();
 	}); 
 }); 
 
