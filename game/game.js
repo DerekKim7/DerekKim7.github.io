@@ -22,5 +22,4 @@ $("#bean2").show();
 	$("#rightbutton").click(function(){
 		$("#yellowball").css("left", "50%");
 	});
-
 });
